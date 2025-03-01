@@ -1,5 +1,7 @@
 # Network Scanner
 
+Live Demo: [https://manasranjan1.github.io/LAN_Scanner/](https://manasranjan1.github.io/LAN_Scanner/)
+
 A Python-based network scanner that discovers devices on your local network using ARP requests. The scanner provides detailed information about discovered devices and can export results to CSV format.
 
 ## Features
